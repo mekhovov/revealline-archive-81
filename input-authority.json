@@ -1,0 +1,101 @@
+{
+  "format": "revealline-archive-scaffold-input.v2",
+  "archive": {
+    "id": "archive-81",
+    "repository": "mekhovov/revealline-archive-81",
+    "donorRepository": "mekhovov/revealline-archive-80",
+    "donorCommit": "224002dd166475e25d8b7b23927dc8a6554d43be",
+    "donorTree": "8cd0a27e09e63a58d9fdb7dbc6a534303f048cae",
+    "toolingCommit": "b13089b702391c275f2505d1a76c87eebb9dcce0",
+    "extractorPath": "publishing/pages-controller/extract-current.py",
+    "extractorSha256": "bf7640232afbe3c20ab927fb6be9165e2dd1efce29327e6dfa214e7023244d3f",
+    "budgetBytes": 800000000
+  },
+  "donor": {
+    "commit": "224002dd166475e25d8b7b23927dc8a6554d43be",
+    "tree": "8cd0a27e09e63a58d9fdb7dbc6a534303f048cae"
+  },
+  "preservedRelease": {
+    "version": "v0.114.0",
+    "releaseId": 396497633,
+    "sourceRevision": "10190539b243c9edc78eeef9dba174041409aaf2",
+    "sourceTree": "026404692da6c4a03f2a23fbedbcf015c4df39f2",
+    "tagObject": "ad9bd22e8240dfb11031796b88ca02896f37f0af",
+    "publishedAt": "2026-09-25T10:10:41Z",
+    "assets": [
+      {
+        "id": 588086414,
+        "name": "distribution.zip",
+        "bytes": 595844050,
+        "sha256": "918dceaa0d243fe920ea2305bb0d44b823dc6ea9e1365f79e994f34e82479a8a"
+      },
+      {
+        "id": 588075297,
+        "name": "distribution.zip.sha256",
+        "bytes": 83,
+        "sha256": "7d8b8e0b318341008e9374831be2129ea0c85f458474adc3383019b7e6ab25ba"
+      },
+      {
+        "id": 588075299,
+        "name": "manifest.json",
+        "bytes": 208266,
+        "sha256": "3723f58b1ddfa1d53546bcb45587142fd6a6077d5d8f7a0a30610786bf0df767"
+      },
+      {
+        "id": 588075296,
+        "name": "qualification-evidence-record.json",
+        "bytes": 1989,
+        "sha256": "70864433ef70ffe203dd655b7296bf3413057d87a6601c564d68277ddd4dcc12"
+      },
+      {
+        "id": 588075298,
+        "name": "release.json",
+        "bytes": 468,
+        "sha256": "fa93c32c4cfc376f04989f7ea539d34cba825e23abf9bcfc734d70cc606d1a7e"
+      },
+      {
+        "id": 588075300,
+        "name": "source-qualification-evidence.zip",
+        "bytes": 336575,
+        "sha256": "f574510fb777dadc1b389e8dc035289f3ab1cbe1b61adf86aaef9c9fab2c5413"
+      },
+      {
+        "id": 588075320,
+        "name": "source-qualification.json",
+        "bytes": 14729,
+        "sha256": "9e9b4fe8c1bde82c535858fd2d052eed666192c0abcb8f367fdb1210ce3c8398"
+      },
+      {
+        "id": 588083975,
+        "name": "source.tar",
+        "bytes": 1689128960,
+        "sha256": "dd11c251b9ef01d56a6586e92662315facfb4e1d05e8e4ebfc941c4598e5832e"
+      },
+      {
+        "id": 588075322,
+        "name": "verification.json",
+        "bytes": 1919,
+        "sha256": "daf1f90ae11dca507fa869d38a7e76f9c86874abcf039e2c4a38ea7dc366692a"
+      }
+    ],
+    "policyEvidence": {
+      "path": "publishing/test-policy.json",
+      "bytes": 490,
+      "sha256": "b6887ba7f2b84a007b96de14fc867ac38ac8135d7c231c7ade7ebc52ba31704a"
+    }
+  },
+  "priorArchiveAcceptance": {
+    "acceptedPaths": 0,
+    "status": "NOT_DEPLOYED",
+    "scope": "New archive; no public-byte or native acceptance is claimed."
+  },
+  "projection": {
+    "manifestFiles": 1141,
+    "manifestBytes": 595442182,
+    "expectedFiles": 1149,
+    "expectedBytes": 595667178
+  },
+  "sourceInput": {
+    "path": "input-authority.json"
+  }
+}
